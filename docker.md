@@ -7,3 +7,5 @@
 [Что такое Docker, и как его использовать? Подробно рассказываем](https://proglib.io/p/docker/)
 
 [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habr.com/ru/post/310460/)
+
+[Don’t install Postgres. Docker pull Postgres](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198)
